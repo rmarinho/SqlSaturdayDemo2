@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5.8.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SqlSaturdayDemo2/Views/MyPage.xaml">
+    <Files>
+      <File FileName="SqlSaturdayDemo2/Models/Person.cs" Line="17" Column="17" />
+      <File FileName="SqlSaturdayDemo2/Views/MyPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="SqlSaturdayDemo2/App.cs" Line="1" Column="1" />
+      <File FileName="SqlSaturdayDemo2/ViewModels/MyPageViewModel.cs" Line="5" Column="5" />
+      <File FileName="SqlSaturdayDemo2/Views/MyPage.xaml" Line="34" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

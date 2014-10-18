@@ -1,0 +1,9 @@
+/Users/ruimarinho/Projects/SqlSaturdayDemo2/SqlSaturdayDemo2/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/ruimarinho/Projects/SqlSaturdayDemo2/SqlSaturdayDemo2/obj/Debug/SqlSaturdayDemo2.Views.MyPage.xaml
+/Users/ruimarinho/Projects/SqlSaturdayDemo2/SqlSaturdayDemo2/obj/Debug/MyPage.xaml.g.cs
+/Users/ruimarinho/Projects/SqlSaturdayDemo2/SqlSaturdayDemo2/bin/Debug/SqlSaturdayDemo2.dll.mdb
+/Users/ruimarinho/Projects/SqlSaturdayDemo2/SqlSaturdayDemo2/bin/Debug/SqlSaturdayDemo2.dll
+/Users/ruimarinho/Projects/SqlSaturdayDemo2/SqlSaturdayDemo2/obj/Debug/SqlSaturdayDemo2.dll
+/Users/ruimarinho/Projects/SqlSaturdayDemo2/SqlSaturdayDemo2/obj/Debug/SqlSaturdayDemo2.dll.mdb
+/Users/ruimarinho/Projects/SqlSaturdayDemo2/SqlSaturdayDemo2/bin/Debug/Xamarin.Forms.Core.dll
+/Users/ruimarinho/Projects/SqlSaturdayDemo2/SqlSaturdayDemo2/bin/Debug/Xamarin.Forms.Xaml.dll

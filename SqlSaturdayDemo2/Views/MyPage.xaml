@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="SqlSaturdayDemo2.MyPage">
+	<ContentPage.Content>
+		<Grid Padding="20" BackgroundColor="Silver">
+			<Grid.ColumnDefinitions>
+				<ColumnDefinition Width="*">
+				</ColumnDefinition>
+				<ColumnDefinition Width="*">
+				</ColumnDefinition>
+			</Grid.ColumnDefinitions>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="0.1*">
+				</RowDefinition>
+				<RowDefinition Height="0.2*">
+				</RowDefinition>
+				<RowDefinition Height="*">
+				</RowDefinition>
+			</Grid.RowDefinitions>
+			<Editor Grid.Column="0" Grid.Row="0" Text="{Binding FirstName, Mode=TwoWay}">
+			</Editor>
+			<Editor Grid.Column="1" Grid.Row="0" Text="{Binding LastName, Mode=TwoWay}">
+			</Editor>
+			<Button Text="Add Person" Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" Command="{Binding AddPersonCommand}">
+			</Button>
+			<ListView Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="2" ItemsSource="{Binding Persons}">
+				<ListView.ItemTemplate>
+					<DataTemplate>
+						<ViewCell>
+							<ViewCell.View>
+								<StackLayout Orientation="Horizontal">
+									<Label Text="{Binding FirstName}">
+									</Label>
+									<Label Text="{Binding LastName}">
+									</Label>
+								</StackLayout>
+							</ViewCell.View>
+						</ViewCell>
+					</DataTemplate>
+				</ListView.ItemTemplate>
+			</ListView>
+		</Grid>
+	</ContentPage.Content>
+</ContentPage>
